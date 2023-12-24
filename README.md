@@ -7,11 +7,17 @@ Requires: https://www.nexusmods.com/warhammer40kdarktide/mods/22
 This mod is imperfect due to constraints on data sent from the server to the client. This mod does it's best to recreate what the server is likely to do. Sadly, a number of factors can make these estimations inaccurate from latency to client state inaccuracies to recordings happening before or after an actual event. As a note, these are issues with all of the current scoreboard implementations but something to be mindful of.
 
 This mod currently tracks:
+
 Total toughness gained
+
 Melee toughness gained
+
 Out For Blood talent toughness gained
+
 Exhilarating Takedown talent toughness gained
+
 Confirmed Kill talent toughness gained
+
 Born Leader talent toughness given to allies
 
 This mod tracks both the total gained (as if you did not have a cap on toughness) and effective gained (which is what you actually gained due to having a maximum toughness).
