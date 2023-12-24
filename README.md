@@ -8,8 +8,8 @@ Installation:
 
 Insure you have the scoreboard mod and all of its requirements installed correctly. Install instructions at nexusmods link above.  
 Download this repo  
-Put toughness_tracker folder in ..\steamapps\common\Warhammer 40,000 DARKTIDE\mods (should be made by darktide mod framework which is a dependency of scoreboard)  
-Enable toughness_tracker by adding "toughness_tracker" to mod_load_order.txt (should be made by darktide mod framework which is a dependency of scoreboard)  
+Put toughness_tracker folder in ..\steamapps\common\Warhammer 40,000 DARKTIDE\mods (should be made by darktide mod loader which is a dependency of scoreboard)  
+Enable toughness_tracker by adding "toughness_tracker" to mod_load_order.txt (should be made by darktide mod loader which is a dependency of scoreboard)  
 
 This mod is imperfect due to constraints on data sent from the server to the client. This mod does it's best to recreate what the server is likely to do. Sadly, a number of factors can make these estimations inaccurate from latency to client state inaccuracies to recordings happening before or after an actual event.
 
